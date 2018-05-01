@@ -1,0 +1,27 @@
+<whole>
+  <Patient>
+    <PatientName>zhang san</PatientName>
+    <PatientSex>m</PatientSex>
+    <PatientAge>60</PatientAge>
+  </Patient>
+  <Scan>
+    <Hospital>ShenYang Hospital</Hospital>
+    <WindowWidth>600</WindowWidth>
+    <WindowCenter>400</WindowCenter>
+    <ScanTime>2010/06/20 12:30:20</ScanTime>
+    <ImageWidth>512</ImageWidth>
+    <ImageHeight>512</ImageHeight>
+    <XPixelSpacing>0.05</XPixelSpacing>
+    <YPixelSpacing>0.05</YPixelSpacing>
+    <Interval>0.1</Interval>
+  </Scan>
+  <Image>
+    <Image1>D001_001.0.raw</Image1>
+    <Image2>D002_001.0.raw</Image2>
+    <Image3>D002_002.0.raw</Image3>
+    <Image4>D002_003.0.raw</Image4>
+    <Image5>D002_004.0.raw</Image5>
+    <Image6>D002_005.0.raw</Image6>
+    <Image7>D002_006.0.raw</Image7>
+  </Image>
+</whole>

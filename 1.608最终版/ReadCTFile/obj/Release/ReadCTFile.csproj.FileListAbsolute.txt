@@ -1,0 +1,9 @@
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Release\ReadCTFile.Form1.resources
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Release\ReadCTFile.Form2.resources
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Release\ReadCTFile.Properties.Resources.resources
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Release\ReadCTFile.csproj.GenerateResource.Cache
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\bin\Release\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\bin\Release\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Release\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Release\ReadCTFile.pdb

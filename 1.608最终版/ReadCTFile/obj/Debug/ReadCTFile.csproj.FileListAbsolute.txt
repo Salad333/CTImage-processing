@@ -1,0 +1,45 @@
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\bin\Debug\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\bin\Debug\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Debug\ReadCTFile.Form1.resources
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Debug\ReadCTFile.Form2.resources
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Debug\ReadCTFile.Properties.Resources.resources
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Debug\ReadCTFile.csproj.GenerateResource.Cache
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Debug\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\1.3\Backup\ReadCTFile\obj\Debug\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\Backup\ReadCTFile\obj\Debug\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\Backup\ReadCTFile\obj\Debug\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\Backup\ReadCTFile\bin\Debug\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\Backup\ReadCTFile\bin\Debug\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\Backup\ReadCTFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ttc\桌面\Backup\ReadCTFile\obj\Debug\ReadCTFile.Form1.resources
+C:\Documents and Settings\ttc\桌面\Backup\ReadCTFile\obj\Debug\ReadCTFile.Form2.resources
+C:\Documents and Settings\ttc\桌面\Backup\ReadCTFile\obj\Debug\ReadCTFile.Properties.Resources.resources
+C:\Documents and Settings\ttc\桌面\Backup\ReadCTFile\obj\Debug\ReadCTFile.csproj.GenerateResource.Cache
+C:\Documents and Settings\ttc\桌面\1.6\ReadCTFile\obj\Debug\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\1.6\ReadCTFile\obj\Debug\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\1.6\ReadCTFile\bin\Debug\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\1.6\ReadCTFile\bin\Debug\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\1.6\ReadCTFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ttc\桌面\1.6\ReadCTFile\obj\Debug\ReadCTFile.Form1.resources
+C:\Documents and Settings\ttc\桌面\1.6\ReadCTFile\obj\Debug\ReadCTFile.Form2.resources
+C:\Documents and Settings\ttc\桌面\1.6\ReadCTFile\obj\Debug\ReadCTFile.Properties.Resources.resources
+C:\Documents and Settings\ttc\桌面\1.6\ReadCTFile\obj\Debug\ReadCTFile.csproj.GenerateResource.Cache
+E:\Photoshop7.0\shixun\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.exe
+E:\Photoshop7.0\shixun\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.pdb
+E:\Photoshop7.0\shixun\1.608最终版\ReadCTFile\obj\Debug\ResolveAssemblyReference.cache
+E:\Photoshop7.0\shixun\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.Form1.resources
+E:\Photoshop7.0\shixun\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.Form2.resources
+E:\Photoshop7.0\shixun\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.Properties.Resources.resources
+E:\Photoshop7.0\shixun\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.csproj.GenerateResource.Cache
+E:\Photoshop7.0\shixun\1.608最终版\ReadCTFile\bin\Debug\ReadCTFile.exe
+E:\Photoshop7.0\shixun\1.608最终版\ReadCTFile\bin\Debug\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\1.608最终版\ReadCTFile\bin\Debug\ReadCTFile.exe
+C:\Documents and Settings\ttc\桌面\1.608最终版\ReadCTFile\bin\Debug\ReadCTFile.pdb
+C:\Documents and Settings\ttc\桌面\1.608最终版\ReadCTFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ttc\桌面\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.Form1.resources
+C:\Documents and Settings\ttc\桌面\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.Form2.resources
+C:\Documents and Settings\ttc\桌面\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.Properties.Resources.resources
+C:\Documents and Settings\ttc\桌面\1.608最终版\ReadCTFile\obj\Debug\ReadCTFile.csproj.GenerateResource.Cache
